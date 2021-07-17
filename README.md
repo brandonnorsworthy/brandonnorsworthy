@@ -1,4 +1,7 @@
-### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonnorsworthy)](https://github.com/brandonnorsworthy/github-readme-stats)
+![Brandon Norsworthy's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonnorsworthy&show_icons=true)
+
+
 
 <!--
 **brandonnorsworthy/brandonnorsworthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
